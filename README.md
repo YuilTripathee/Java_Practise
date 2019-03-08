@@ -17,4 +17,7 @@ This repo covers the lab sessions necessary for grabbing the fundamental ideas a
 | 09 | Constructors in Java | |
 | 10 | Inheritance in Java | |
 | 11 | Packages and sub-packages in Java | |
-| 12 | [project] Sample Calculator in Java's Swing Framework | |
+| 12 | [project] Sample Calculator in Java's Swing Framework / Applet | |
+| 13 | IO stream with File System in Java | |
+| 14 | Understanding control statements in VB | |
+| 15 | Undersanding iteration implementation in VB | | 
